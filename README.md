@@ -1,6 +1,6 @@
 # Computational Neuroscience (SNEU20007U)
 
-This repository contains the materials for the **SNEU20007U Computational Neuroscience** course taught at the University of Copenhagen during the Spring semester of 2024 by **João Campagnolo** and **Professor Rune Berg**.
+This repository contains the materials for the **SNEU20007U Computational Neuroscience** course taught at the University of Copenhagen during the Spring semester of 2024 by **Professor Rune Berg** and **João Campagnolo**.
 
 ## Overview
 
@@ -69,7 +69,7 @@ The repository also includes code examples and exercises designed to complement 
 - **Course**: [SNEU20007U Computational Neuroscience](https://kurser.ku.dk/course/sneu20007u/)
 - **Institution**: University of Copenhagen
 - **Semester**: Spring 2024
-- **Instructors**: João Campagnolo and Professor Rune Berg
+- **Instructors**: Professor Rune Berg and João Campagnolo
 
 ### Contact
 
