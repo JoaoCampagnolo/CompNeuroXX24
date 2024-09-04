@@ -1,0 +1,1 @@
+{"input_size": 784, "hidden_sizes": [20, 20], "output_size": 10, "activation_fn": "ReLU", "use_bias": true}
