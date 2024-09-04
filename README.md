@@ -21,7 +21,7 @@ The course covers various topics, including:
 
 The following lecture slides and materials are included:
 
-1. **[Introduction to Computational Neuroscience](slides/What%20is%20computational%20neuroscience_%20—%20Computational%20Neuroscience.pdf)**
+1. **[Introduction to Computational Neuroscience](slides/What%20is%20computational%20neuroscience_%20%E2%80%94%20Computational%20Neuroscience.pdf)**
 2. **[Introduction to Modeling with Differential Equations](slides/2.1.%20Introduction%20modelling%20with%20differential%20equations%20—%20Computational%20Neuroscience.pdf)**
 3. **[Dynamical Systems as Linear Transformations](slides/2.2.%20Dynamical%20systems%20as%20Linear%20Transformations%20—%20Computational%20Neuroscience.pdf)**
 4. **[Data Analysis with Pandas](slides/4.1.%20Introduction%20to%20Data%20Analysis%20with%20Pandas%20—%20Computational%20Neuroscience.pdf)**
