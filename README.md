@@ -21,13 +21,13 @@ The course covers various topics, including:
 
 The following lecture slides and materials are included:
 
-1. **[Introduction to Computational Neuroscience](slides/What%20is%20computational%20neuroscience_%20%E2%80%94%20Computational%20Neuroscience.pdf)**
-2. **[Introduction to Modeling with Differential Equations](slides/2.1.%20Introduction%20modelling%20with%20differential%20equations%20—%20Computational%20Neuroscience.pdf)**
-3. **[Dynamical Systems as Linear Transformations](slides/2.2.%20Dynamical%20systems%20as%20Linear%20Transformations%20—%20Computational%20Neuroscience.pdf)**
-4. **[Data Analysis with Pandas](slides/4.1.%20Introduction%20to%20Data%20Analysis%20with%20Pandas%20—%20Computational%20Neuroscience.pdf)**
-5. **[Machine Learning in Computational Neuroscience](slides/4.2.%20Machine%20Learning%20—%20Computational%20Neuroscience.pdf)** - This lecture covers the basics of supervised and unsupervised learning, k-NN classifier, k-means clustering, and the principles of machine learning relevant to neuroscience.
+1. **[Introduction to Computational Neuroscience](slides/1_Whatiscomputationalneuroscience__ComputationalNeuroscience.pdf)**
+2. **[Introduction to Modeling with Differential Equations](slides/2_1_Introductionmodellingwithdifferentialequations_ComputationalNeuroscience.pdf)**
+3. **[Dynamical Systems as Linear Transformations](slides/2_2_DynamicalsystemsasLinearTransformations_ComputationalNeuroscience.pdf)**
+4. **[Data Analysis with Pandas](slides/4_1_IntroductiontoDataAnalysiswithPandas_ComputationalNeuroscience.pdf)**
+5. **[Machine Learning in Computational Neuroscience](slides/CompNeuro_ML_Basics.pdf)** - This lecture covers the basics of supervised and unsupervised learning, k-NN classifier, k-means clustering, and the principles of machine learning relevant to neuroscience.
 6. **[Neural Network Basics](slides/CompNeuro_NN_Basics.pptx)** - Introduction to the architecture and learning mechanisms of neural networks, focusing on concepts like backpropagation, gradient descent, and activation functions.
-7. **[Network Science in Computational Neuroscience](slides/5.1.%20Network%20science%20—%20Computational%20Neuroscience.pdf)**
+7. **[Network Science in Computational Neuroscience](slides/5_1_Networkscience_ComputationalNeuroscience.pdf)**
 
 ### Code and Exercises
 
